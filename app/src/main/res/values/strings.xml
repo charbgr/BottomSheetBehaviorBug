@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">BottomSheetBehaviorBug</string>
+  <string name="peek_me">Peek me!</string>
+  <string name="drag_me">Drag me!</string>
+</resources>
